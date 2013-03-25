@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://m0r1.github.com/sitemap.xml 

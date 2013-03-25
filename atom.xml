@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Memorandum]]></title>
+  <link href="http://m0r1.github.com/atom.xml" rel="self"/>
+  <link href="http://m0r1.github.com/"/>
+  <updated>2013-03-25T10:32:03+09:00</updated>
+  <id>http://m0r1.github.com/</id>
+  <author>
+    <name><![CDATA[m0r1]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
